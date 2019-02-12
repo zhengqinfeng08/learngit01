@@ -1,1 +1,2 @@
-test 郑钦锋
+Git is a distributed version control system.
+Git is free software.
